@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+pyqt_translator.egg-info/PKG-INFO
+pyqt_translator.egg-info/SOURCES.txt
+pyqt_translator.egg-info/dependency_links.txt
+pyqt_translator.egg-info/requires.txt
+pyqt_translator.egg-info/top_level.txt
+translator/__init__.py
+translator/config.py
+translator/text_formatter.py
+translator/themes.py
+translator/translate_cli.py
+translator/translation_thread.py
+translator/translator_app.py

@@ -1,0 +1,10 @@
+PyQt6
+transformers
+torch
+sentencepiece
+pyinstaller>=6.14.2
+
+[dev]
+pytest
+black
+isort
